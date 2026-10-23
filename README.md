@@ -151,3 +151,7 @@ numbers; set `TF_ENABLE_ONEDNN_OPTS=0` for maximum determinism on CPU.
   sequence length 23). Update the text to the results of your run before submitting.
 - The dataset is very small (1,000 sentences), so differences between models of a few
   percent are within the noise of a single split.
+
+*Built by Matěj Fadrhons  [github.com/mFadr](https://github.com/mFadr)*
+
+  
